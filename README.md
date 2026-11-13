@@ -2,6 +2,11 @@
 
 A simple and interactive web application built with Python, Pandas, and Streamlit to clean and prepare CSV datasets.
 
+## Live Demo
+
+Try the application here:
+https://python-csv-cleaning-app-zrmzbvjukkqhuvz98rpzpr.streamlit.app/
+
 ## Features
 
 - Upload CSV files
